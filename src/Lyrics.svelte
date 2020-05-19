@@ -33,6 +33,12 @@
 
     }
 
+    .thelyrics{
+        display: flex;
+        justify-content: center;
+        
+    }
+
     .error{
         text-align: center;
         font-size: 2rem;
